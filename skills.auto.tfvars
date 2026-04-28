@@ -8,7 +8,7 @@ skills = {
   "CICD_Skill" = {
     name = "CICD_Skill"
   }
-  "business_deals_skill3" = {
-    name = "business_deals_skill3"
+  "CICD_Skill_2" = {
+    name = "CICD_Skill_2"
   }
 }
