@@ -1,0 +1,8 @@
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate.lock.info
+crash.log
+# *.tfvars (Removed to allow configuration files)
+.DS_Store
