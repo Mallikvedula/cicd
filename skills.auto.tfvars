@@ -13,5 +13,5 @@ skills = {
   }
   "CICD-Support" = {
     name = "CICD-Support"
-  } 
+  }
 }
