@@ -11,4 +11,7 @@ skills = {
   "CICD_Skill_2" = {
     name = "CICD_Skill_2"
   }
+  "CICD-Support" = {
+    name = "CICD-Support"
+  }
 }
