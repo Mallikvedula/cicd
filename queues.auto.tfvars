@@ -103,9 +103,9 @@ Sample_CICD_Queue = {
     name        = "Sample_CICD_Queue"
     description = "A queue created by CICD"
     # division_name           = "my_custom_division" # <== Commented out: Requires 'All Divisions' Global Role Access
-    acw_wrapup_prompt       = "MANDATORY_TIMEOUT"
-    acw_timeout_ms          = 300000
-    skill_evaluation_method = "BEST"
+    acw_wrapup_prompt       = ""
+    acw_timeout_ms          = 
+    skill_evaluation_method = ""
 
     auto_answer_only         = true
     enable_transcription     = true
