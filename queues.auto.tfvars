@@ -116,6 +116,6 @@ Sample_CICD_Queue = {
       alerting_timeout_sec      = 30
       service_level_percentage  = 0.8
       service_level_duration_ms = 20000
-    }
-	
-	
+		}
+	}
+}
