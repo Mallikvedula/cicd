@@ -98,9 +98,7 @@ queues = {
   }
 }
 
-
-
-queues = {
+Sample_CICD_Queue = {
   "Sample_CICD_Queue" = {
     name        = "Sample_CICD_Queue"
     description = "A queue created by CICD"
@@ -119,3 +117,5 @@ queues = {
       service_level_percentage  = 0.8
       service_level_duration_ms = 20000
     }
+	
+	
