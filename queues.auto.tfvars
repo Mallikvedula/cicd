@@ -98,4 +98,25 @@ queues = {
   }
 }
 
+Sample_CICD_Queue = {
+  "Sample_CICD_Queue" = {
+    name        = "Sample_CICD_Queue"
+    description = "A queue created by CICD"
 
+    # division_name           = "my_custom_division"
+    # acw_wrapup_prompt       = ""
+    # acw_timeout_ms          =
+    # skill_evaluation_method = ""
+
+    auto_answer_only         = true
+    enable_transcription     = true
+    enable_audio_monitoring  = true
+    enable_manual_assignment = true
+
+    media_settings_call = {
+      alerting_timeout_sec      = 30
+      service_level_percentage  = 0.8
+      service_level_duration_ms = 20000
+    }
+  }
+}
