@@ -96,9 +96,6 @@ queues = {
       }
     ]
   }
-}
-
-Sample_CICD_Queue = {
   "Sample_CICD_Queue" = {
     name        = "Sample_CICD_Queue"
     description = "A queue created by CICD"
@@ -120,3 +117,6 @@ Sample_CICD_Queue = {
     }
   }
 }
+
+  
+
